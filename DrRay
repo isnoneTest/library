@@ -1,5 +1,5 @@
 --orginal : https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua
-lu = game:GetService("CoreGui"):GetChildren("DrRay)
+lu = game:GetService("CoreGui"):GetChildren("DrRay")
 if lu then
   lu:Destroy()
 end
